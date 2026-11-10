@@ -1,23 +1,2 @@
-
-# 1. Overwrite the old README with a shorter one
-cat << 'EOF' > README.md
-# Rust Smooth Snake 🐍
-
-A slithering Snake game built in Rust using `macroquad`. 
-
-## Run it
-```bash
-cargo run
-```
-
-## Controls
-- **Arrow Keys**: Move
-- **Space**: Restart
-EOF
-
-# 2. Push it to GitHub
-git add README.md
-git commit -m "Simplify README"
-git push
-
+<img width="803" height="619" alt="Screenshot_20261110_133844" src="https://github.com/user-attachments/assets/7901da81-4711-4d82-819a-fcd43d5c39cd" />
 
